@@ -22,6 +22,7 @@ body{
   display: flex;
   width: 100vw;
   background: var(--blue);
+  overflow: hidden;
 }
 .topBar__header{
   width: 58%;
