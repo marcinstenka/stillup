@@ -37,7 +37,7 @@ body{
   color: var(--dark-blue);
 }
 .topBar__header-logo{
-  width: 75%;
+  width: 163px;
   position: absolute;
   left: 50%;
   bottom: 42px;
