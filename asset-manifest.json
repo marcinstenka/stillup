@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stillup/static/css/main.fec64875.chunk.css",
+    "main.js": "/stillup/static/js/main.b888dde4.chunk.js",
+    "main.js.map": "/stillup/static/js/main.b888dde4.chunk.js.map",
+    "runtime-main.js": "/stillup/static/js/runtime-main.092bc997.js",
+    "runtime-main.js.map": "/stillup/static/js/runtime-main.092bc997.js.map",
+    "static/js/2.16f3044d.chunk.js": "/stillup/static/js/2.16f3044d.chunk.js",
+    "static/js/2.16f3044d.chunk.js.map": "/stillup/static/js/2.16f3044d.chunk.js.map",
+    "index.html": "/stillup/index.html",
+    "static/css/main.fec64875.chunk.css.map": "/stillup/static/css/main.fec64875.chunk.css.map",
+    "static/js/2.16f3044d.chunk.js.LICENSE.txt": "/stillup/static/js/2.16f3044d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/stillup/static/media/Intervogue Soft Ultra.b8956f3b.otf",
+    "static/media/logoMobile.a6b8cfe6.jpg": "/stillup/static/media/logoMobile.a6b8cfe6.jpg",
+    "static/media/stillup.b2de5886.png": "/stillup/static/media/stillup.b2de5886.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.092bc997.js",
+    "static/js/2.16f3044d.chunk.js",
+    "static/css/main.fec64875.chunk.css",
+    "static/js/main.b888dde4.chunk.js"
+  ]
+}
