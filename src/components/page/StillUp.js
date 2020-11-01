@@ -1,9 +1,8 @@
 import React from 'react'
+import TopBar from '../TopBar'
 
 export default function StillUp() {
     return (
-        <div className='repoTest'>
-            Testing repo
-        </div>
+        <TopBar />
     )
 }
