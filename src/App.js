@@ -7,7 +7,7 @@ import StillUp from './components/page/StillUp'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='stillup'>
         <Switch>
           <Route exact path='/' component={StillUp} />
         </Switch>
