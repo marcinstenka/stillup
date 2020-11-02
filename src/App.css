@@ -65,7 +65,7 @@ body{
 .topBar__header-logo img{
   width: 100%;
 }
-.stripe{
+.stripe-blue{
   width: calc(100% + 8px);
   height: 15px;
   background: var(--intense-blue);
@@ -119,13 +119,16 @@ body{
   font-family: 'Intervogue soft regular';
   margin: 40px 0 0 0;
 }
-.themes p{
+.theme p, .themes__heading{
   padding: 0 15px;
 }
 .theme{
   display: grid;
   grid-template-columns: 50% 50%;
   margin: 0 0 50px 0;
+}
+.theme:nth-of-type(4){
+  margin: 0 0 20px 0;
 }
 .theme__logo{
   width: 85%;
@@ -158,9 +161,26 @@ black{
   order:4;
 }
 .theme:nth-of-type(even) .theme__logo{
- order: 2;
- margin: 0 auto 0 0;
+  order: 2;
+  margin: 0 auto 0 0;
 }
 .theme:nth-of-type(even) .theme__name{
   order: 1;
- }
+}
+.stripe-orange{
+  background: var(--orange);
+  width: 100%;
+  height: 25px;
+}
+.suprise{
+  background: var(--gray);
+  text-align: center;
+}
+.suprise__bold{
+  font-family: 'Intervogue soft bold';
+}
+.suprise p{
+  padding: 15px 15px 0 15px;
+  margin: 0;
+
+}

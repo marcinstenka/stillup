@@ -11,7 +11,7 @@ export default function TopBar() {
                     <div className="topBar__header-logo">
                         <img src={StillUp} alt="Still Up"/>
                     </div>
-                    <div className='stripe'></div>
+                    <div className='stripe-blue'></div>
                     <h1>AKADEMIA LIDERA</h1>
                 </div>
                 <div className="topBar__logo">

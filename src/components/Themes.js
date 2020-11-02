@@ -6,7 +6,7 @@ import Theme4 from './../img/section4.png'
 export default function Themes() {
     return (
         <div className='themes'>
-            <p>Nasza Akademia została podzielona na kilka bloków tematycznych. W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje, aby stać się niezawodnym przywódcą.</p>
+            <p className='themes__heading'>Nasza Akademia została podzielona na kilka bloków tematycznych. W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje, aby stać się niezawodnym przywódcą.</p>
             <div className="theme">
                 <div className="theme__logo">
                     <img src={Theme1} alt="Ozdobny obrazek"/>
@@ -41,6 +41,11 @@ export default function Themes() {
                 <h2 className='theme__name'><black>IV.</black>Moc<br/>Potencjał<br/>Wiara</h2>
                 <p className='theme__text'>Coach, trener psychologii pozytywnej i doradca zawodowy w jednej osobie – Natalia Zarańska - zabierze Ciebie w niezwykłą podróż, która być może czasami nie będzie podróżą łatwą. Często będzie niewygodna, będzie wymagała od Ciebie odwiedzenia miejsc, o których chciałeś/aś zapomnieć. To podróż w głąb siebie. Przywódca musi dobrze zarządzać sobą, radzić sobie z emocjami, znać własną wartość i być pewnym siebie. Znać swoje zasoby i ograniczenia. Wiedzieć, jak zarządzać zmianą. Tego wszystkiego nauczysz się w tej podróży. To odkrywanie oprzemy na 21 prawach przywództwa oraz 15 prawach rozwoju Johna Maxwella, który uczy tego, jak zostać liderem i skutecznie rozwijać swój potencjał od ponad 40 lat na całym świecie.</p>
                 <p className='theme__bold'>Ta przestrzeń zawiera 6 spotkań po 3 godziny.</p>
+            </div>
+            <div className="stripe-orange"></div>
+            <div className="suprise">
+                <p className='suprise__bold'>W ramach Akademii zorganizowane będą także spotkania niespodzianki.</p>
+                <p>Jak sam/a widzisz, Akademia Lidera Still Up to gwarancja odkrywania, kształtowania i wzmacniania w sobie cech przywódczych. To szyta na miarę Twoich potrzeb przestrzeń wzrastania, zwiększania świadomości i budzenia potencjału. To właśnie w tym wyjątkowym miejscu, w atmosferze zaufania, życzliwości i akceptacji będziesz szedł/szła wciąż w górę.</p>
             </div>
         </div>
     )
