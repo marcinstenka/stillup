@@ -4,6 +4,7 @@
   --intense-blue: #0e4ac6;
   --gray: #c4cacc;
   --orange: #de9142;
+  --white: #fff;
 }
 @font-face{
   font-family: 'Intervogue soft ultra';
@@ -182,5 +183,80 @@ black{
 .suprise p{
   padding: 15px 15px 0 15px;
   margin: 0;
-
+}
+.suprise p:last-of-type{
+  padding: 15px;
+}
+/* MENTORS */
+.mentors{
+  background: var(--blue);
+}
+.mentors__header{
+  font-family: 'Intervogue soft ultra';
+  margin: 15px 0 ;
+  font-size: 28px;
+  text-align: center;
+}
+.mentor{
+  display: grid;
+  grid-template-columns: 40% 60%;
+  position: relative;
+  padding: 0 0 30px 0;
+}
+.mentor__img{
+  order: 0;
+  position: relative;
+  z-index: 1;
+}
+.mentor__img img{
+  width:100%;
+}
+.mentor__name{
+  position: relative;
+  z-index: 1;
+}
+.mentor__description{
+  order: 1;
+  color: var(--white);
+  font-family: 'Intervogue soft regular';
+}
+.mentor__description p{
+  margin: 0 5px 0 5px;
+}
+.mentor h2{
+  margin: 5px 0 5px 5px ;
+  max-width: 100px;
+  font-size: 20px;
+  font-family: 'Intervogue soft ultra';
+}
+.mentor__stripe{
+  position: absolute;
+  height: 19px;
+  width: 100%;
+  background: var(--intense-blue);
+  top: 20px;
+}
+.description__read-more{
+  font-family: 'Intervogue soft bold';
+  cursor: pointer;
+}
+.description__full{
+  max-height: 0;
+  overflow: hidden;
+  transition: 0.3s;
+}
+.description__read-less{
+  display: none;
+  font-family: 'Intervogue soft bold';
+  cursor: pointer;
+  margin: 0 5px 20px 5px !important;
+}
+.mentor:nth-of-type(even){
+  grid-template-columns: 60% 40%;
+}
+.mentor:nth-of-type(even) .mentor__img {
+  order: 2;
+}
+.mentor:nth-of-type(even) .mentor__name {
+  order: 0;
 }
