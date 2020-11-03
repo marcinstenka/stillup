@@ -6,7 +6,7 @@ import Theme4 from './../img/section4.png'
 export default function Themes() {
     return (
         <div className='themes'>
-            <p className='themes__heading'>Nasza Akademia została podzielona na kilka bloków tematycznych. W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje, aby stać się niezawodnym przywódcą.</p>
+            <p className='themes__heading-mobile'>Nasza Akademia została podzielona na kilka bloków tematycznych. W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje, aby stać się niezawodnym przywódcą.</p>
             <div className="theme">
                 <div className="theme__logo">
                     <img src={Theme1} alt="Ozdobny obrazek"/>

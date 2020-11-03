@@ -40,13 +40,20 @@ body{
   background: var(--blue);
   overflow: hidden;
 }
+.topBar__up-desktop{
+  width: 58%;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  justify-content: center;
+}
 .topBar__up{
   display:flex;
+  justify-content: space-between;
 }
 .topBar__header{
   width: 58%;
   display: flex;
-  position: relative;
   align-items: flex-end;
   justify-content: center;
 }
@@ -54,6 +61,9 @@ body{
   font-size: 18px;
   font-family: 'the bold font';
   color: var(--dark-blue);
+}
+.topBar__logo{
+  display: none;
 }
 .topBar__header-logo{
   width: 163px;
@@ -73,19 +83,22 @@ body{
   position: absolute;
   bottom: 45px;
 }
-.topBar__logo{
+.topBar__logo-mobile{
   width: 42%;
 }
-.topBar__logo img{
+.topBar__logo-mobile img{
   width: 100%;
   border-radius: 5px;
   margin: 4px 0 1px 4px;
 }
-
 .topBar__description{
+  display: none;
+}
+.topBar__description-mobile{
+  display: block;
   background: var(--gray);
 }
-.topBar__description p{
+.topBar__description-mobile p{
   padding: 5px 15px;
   font-family: 'Intervogue soft regular';
 }
@@ -120,7 +133,7 @@ body{
   font-family: 'Intervogue soft regular';
   margin: 40px 0 0 0;
 }
-.theme p, .themes__heading{
+.theme p, .themes__heading-mobile{
   padding: 0 15px;
 }
 .theme{
@@ -324,4 +337,106 @@ iframe{
 }
 .contact__icon:hover{
   transform: scale(1.2);
+}
+
+
+@media screen and (min-width: 1000px) {
+  .mobile-header, .themes__heading-mobile, .topBar__logo-mobile{
+    display: none;
+  }
+  .topBar-container{
+    background: var(--gray);
+    padding: 50px 0 0 0;
+  }
+  .topBar{
+    position: relative;
+  }
+  .topBar__up-desktop{
+    display: flex;
+    flex-direction: column;
+    width: 58%;
+}
+  .topBar__header{
+    align-items: unset;
+    width: unset;
+    position: absolute;
+    top:50px
+  }
+  .topBar__header-logo{
+    width: 330px;
+    margin: 4px 0 0 0;
+    position: unset;
+    left: unset;
+    bottom: unset;
+    transform: unset;
+  }
+  .stripe-blue {
+    height: 25px;
+    top: 72px;
+    width: 150vw;
+  }
+  .topBar__header h1{
+    font-size: 24px;
+    margin: 47px 0 0 0;
+    min-width: 193px;
+  }
+  .topBar__logo{
+    display: block;
+    width: 50%;
+    z-index: 1;
+    margin: 15px 0 0 0;
+    max-width: 600px;
+  }
+  .topBar__logo img{
+    width: 100%;
+  }
+  .topBar__description-mobile{
+    display: none;
+  }
+  .topBar__description{
+    display: block;
+    color: var(--white);
+    font-family: 'Intervogue soft regular';
+    line-height: 1.2;
+    padding: 162px 30px 50px 30px;
+    text-align: justify;
+  }
+  .topBar__description h2{
+    font-family: 'Intervogue soft ultra';
+  }
+  .topBar__up{
+    min-height: 507px;
+  }
+  .dotsMobile{
+    display: none;
+  }
+  .gray-bg{
+    position: absolute;
+    width: 20%;
+    max-width: 264px;
+    height: 100%;
+    top:0;
+    right:0;
+    background: var(--gray);
+  }
+}
+
+@media screen and (min-width: 1250px) {
+  .topBar__header{
+    margin: 0 100px 0 0;
+  }
+  .topBar__header-logo{
+    margin: 4px 30px 0 0;
+  }
+  .topBar__description{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 758px;
+  }
+}
+@media screen and (min-width: 1340px){
+  .topBar__header{
+    margin: 0 150px 0 0;
+  }
 }
