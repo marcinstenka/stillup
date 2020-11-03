@@ -41,7 +41,14 @@ body{
     height: 12px !important;
   }
   .topBar__header-logo {
-    width: 140px !important;}
+    width: 140px !important;
+  }
+  .mentor:nth-of-type(2) h2{
+    font-size: 18px;
+  }
+  .mentor:nth-of-type(2) h2:after{
+    top: 12px;
+  }
 }
 .topBar{
   display: flex;
@@ -389,7 +396,7 @@ iframe{
     font-size: 32px;
     margin:10px
   }
-  .mentor h2::after {
+  .mentor h2::after,.mentor:nth-of-type(2) h2{
     height: 36px;
   }
   .mentor h2::after{
