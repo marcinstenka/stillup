@@ -8,8 +8,8 @@ export default function TopBar() {
     <div className="topBar-container">
         <div className='topBar'>
             <div className="gray-bg"></div>
-            <div className="topBar__up">
-                <div className="topBar__up-desktop">
+            <div className="topBar__up-container">
+                <div className="topBar__up">
                     <div className="topBar__header">
                         <div className="topBar__header-logo">
                             <img src={StillUp} alt="Still Up"/>
