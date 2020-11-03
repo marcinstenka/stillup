@@ -44,10 +44,10 @@ body{
     width: 140px !important;
   }
   .mentor:nth-of-type(2) h2{
-    font-size: 18px;
+    font-size: 18px !important;
   }
   .mentor:nth-of-type(2) h2:after{
-    top: 12px;
+    top: 12px !important;
   }
 }
 .topBar{
