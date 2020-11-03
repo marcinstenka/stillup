@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/stillup/static/css/main.72b4dd92.chunk.css",
-    "main.js": "/stillup/static/js/main.184ea6d8.chunk.js",
-    "main.js.map": "/stillup/static/js/main.184ea6d8.chunk.js.map",
+    "main.css": "/stillup/static/css/main.3aefbd8b.chunk.css",
+    "main.js": "/stillup/static/js/main.ac656063.chunk.js",
+    "main.js.map": "/stillup/static/js/main.ac656063.chunk.js.map",
     "runtime-main.js": "/stillup/static/js/runtime-main.092bc997.js",
     "runtime-main.js.map": "/stillup/static/js/runtime-main.092bc997.js.map",
     "static/js/2.b6ad8360.chunk.js": "/stillup/static/js/2.b6ad8360.chunk.js",
     "static/js/2.b6ad8360.chunk.js.map": "/stillup/static/js/2.b6ad8360.chunk.js.map",
     "index.html": "/stillup/index.html",
-    "static/css/main.72b4dd92.chunk.css.map": "/stillup/static/css/main.72b4dd92.chunk.css.map",
+    "static/css/main.3aefbd8b.chunk.css.map": "/stillup/static/css/main.3aefbd8b.chunk.css.map",
     "static/js/2.b6ad8360.chunk.js.LICENSE.txt": "/stillup/static/js/2.b6ad8360.chunk.js.LICENSE.txt",
     "static/media/App.css": "/stillup/static/media/theboldfont.8bb277ce.ttf",
     "static/media/dotsMobile.270f7e88.png": "/stillup/static/media/dotsMobile.270f7e88.png",
+    "static/media/logo.f2e63ad5.png": "/stillup/static/media/logo.f2e63ad5.png",
     "static/media/logoMobile.a6b8cfe6.jpg": "/stillup/static/media/logoMobile.a6b8cfe6.jpg",
     "static/media/mentor1.8faefc98.png": "/stillup/static/media/mentor1.8faefc98.png",
     "static/media/mentor2.5231195d.png": "/stillup/static/media/mentor2.5231195d.png",
@@ -28,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.092bc997.js",
     "static/js/2.b6ad8360.chunk.js",
-    "static/css/main.72b4dd92.chunk.css",
-    "static/js/main.184ea6d8.chunk.js"
+    "static/css/main.3aefbd8b.chunk.css",
+    "static/js/main.ac656063.chunk.js"
   ]
 }
