@@ -45,6 +45,7 @@ export default function TopBar() {
             </div>
         </div>
         <h2 className="mobile-header">Wszystko zaczyna się bowiem od Ciebie.</h2>
+        <div className="cicle"></div>
     </div>
     <div className='topBar__down'>
         <div className="down__img"><img src={DotsTopBar} alt="Ozdobne kształty"/></div>
