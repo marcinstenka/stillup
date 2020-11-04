@@ -2,9 +2,11 @@ import React from 'react'
 import StillUp from './../img/stillup.png'
 import LogoMobile from './../img/logoMobile.jpg'
 import Logo from './../img/logo.png'
+import DotsTopBar from './../img/dots1.png'
 import DotsMobile from './../img/dotsMobile.png'
 export default function TopBar() {
     return (
+        <>
     <div className="topBar-container">
         <div className='topBar'>
             <div className="gray-bg"></div>
@@ -44,5 +46,10 @@ export default function TopBar() {
         </div>
         <h2 className="mobile-header">Wszystko zaczyna się bowiem od Ciebie.</h2>
     </div>
+    <div className='topBar__down'>
+        <div className="down__img"><img src={DotsTopBar} alt="Ozdobne kształty"/></div>
+        <p>Nasza Adademia została podzielona na kilka bloków tematycznych.<br />W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje,<br />aby stać się niezawodnym przywódcą.</p>
+    </div>
+    </>
     )
 }
