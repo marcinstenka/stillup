@@ -38,7 +38,7 @@ export default function Themes() {
                 </div>
                 <h2 className='theme__name-mobile'><black>III.</black>Popularność<br/>Niezawodność<br/>Zwycięstwo</h2>
                 <div className='theme__text'>
-                    <h2 className='theme__name'>III. Popularność - Niezawodność -Zwycięstwo</h2>
+                    <h2 className='theme__name'>III. Popularność - Niezawodność - Zwycięstwo</h2>
                     <p>Trzech artystów z branży filmowej i fotograficznej Joanna Piotrowicz, Tomasz Oczkowski oraz Filip Konecki odkryją przed Tobą świat, który odkrywają, kiedy stają po drugiej stronie kamery czy aparatu. Aby przewodzić innym, musisz nauczyć się wywierać wpływ. Prawie 100% tego kim chcemy być, co chcemy mieć i robić, dzieje się przy współudziale innych osób. I niezależnie od tego, dokąd podążysz, to Ty jesteś swoją marką osobistą. Ludzie zawsze Cię obserwują, część z nich Ciebie naśladuje,  idzie za Twoim głosem. Mamy ogromny wpływ na kształtowanie tego, jak ludzie myślą, czują i działają poprzez komunikację z nimi. Przywódca musi być pewny swoich słów, gestów i zachowań. To inni dają Tobie pozwolenie, abyś do nich mówił/a. Zatem musisz wiedzieć, jak inni Ciebie widzą i słyszą.</p>
                     <p className='theme__bold'>Ta przestrzeń zawiera 7 spotkań po 3 godziny.</p>
                 </div>
@@ -50,7 +50,7 @@ export default function Themes() {
                 </div>
                 <h2 className='theme__name-mobile'><black>IV.</black>Moc<br/>Potencjał<br/>Wiara</h2>
                 <div className='theme__text'>
-                    <h2 className='theme__name'>IV. Moc -Potencjał - Wiara</h2>
+                    <h2 className='theme__name'>IV. Moc - Potencjał - Wiara</h2>
                     <p >Coach, trener psychologii pozytywnej i doradca zawodowy w jednej osobie – Natalia Zarańska - zabierze Ciebie w niezwykłą podróż, która być może czasami nie będzie podróżą łatwą. Często będzie niewygodna, będzie wymagała od Ciebie odwiedzenia miejsc, o których chciałeś/aś zapomnieć. To podróż w głąb siebie. Przywódca musi dobrze zarządzać sobą, radzić sobie z emocjami, znać własną wartość i być pewnym siebie. Znać swoje zasoby i ograniczenia. Wiedzieć, jak zarządzać zmianą. Tego wszystkiego nauczysz się w tej podróży. To odkrywanie oprzemy na 21 prawach przywództwa oraz 15 prawach rozwoju Johna Maxwella, który uczy tego, jak zostać liderem i skutecznie rozwijać swój potencjał od ponad 40 lat na całym świecie.</p>
                     <p className='theme__bold'>Ta przestrzeń zawiera 6 spotkań po 3 godziny.</p>
 
