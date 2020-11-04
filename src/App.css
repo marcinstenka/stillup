@@ -121,6 +121,9 @@ body{
   padding: 5px 15px;
   font-family: 'Intervogue soft regular';
 }
+.topBar__down{
+  display: none;
+}
 .dotsMobile{
   width: 100%;
 }
@@ -496,6 +499,7 @@ path{
     font-family: 'Intervogue soft ultra';
   }
   .topBar__down{
+    display: block;
     width: 100%;
     background: var(--gray);
     position: relative;
