@@ -436,7 +436,7 @@ path{
   .topBar__up{
     display: flex;
     flex-direction: column;
-    width: 58%;
+    width: 68%;
 }
   .topBar__header{
     align-items: unset;
@@ -481,7 +481,7 @@ path{
     color: var(--white);
     font-family: 'Intervogue soft regular';
     line-height: 1.2;
-    padding: 162px 30px 50px 30px;
+    padding: 162px 30px 50px 0;
     text-align: justify;
   }
   .topBar__description h2{
