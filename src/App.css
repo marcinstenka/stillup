@@ -226,9 +226,13 @@ black{
   display: none;
 }
 /* MENTORS */
+.mentors{
+  display: none;
+}
 .mentors-mobile{
   background: var(--blue);
 }
+
 .mentors__header{
   font-family: 'Intervogue soft ultra';
   margin: 15px 0 5px 0;
@@ -319,6 +323,7 @@ black{
 }
 
 /* FOOTER */
+
 .footer{
   font-family: 'Intervogue soft regular';
   background: var(--gray);
@@ -353,6 +358,9 @@ black{
 }
 .footer__info p:nth-of-type(4){
   margin:50px 0 0 0;
+}
+.footer__img{
+  display: none;
 }
 bold{
   font-family: 'Intervogue soft bold';
@@ -661,6 +669,7 @@ path{
   }
   .swiper-pagination-bullet-active{
     background: var(--intense-blue)!important;
+    border: none!important;
   }
   .swiper-pagination-bullet {
     width: 30px;
