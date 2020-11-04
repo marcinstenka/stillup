@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/stillup/static/css/main.87c4e60b.chunk.css",
-    "main.js": "/stillup/static/js/main.2bf682d2.chunk.js",
-    "main.js.map": "/stillup/static/js/main.2bf682d2.chunk.js.map",
+    "main.css": "/stillup/static/css/main.679dcffa.chunk.css",
+    "main.js": "/stillup/static/js/main.7bd661ce.chunk.js",
+    "main.js.map": "/stillup/static/js/main.7bd661ce.chunk.js.map",
     "runtime-main.js": "/stillup/static/js/runtime-main.092bc997.js",
     "runtime-main.js.map": "/stillup/static/js/runtime-main.092bc997.js.map",
     "static/js/2.296a8766.chunk.js": "/stillup/static/js/2.296a8766.chunk.js",
     "static/js/2.296a8766.chunk.js.map": "/stillup/static/js/2.296a8766.chunk.js.map",
     "index.html": "/stillup/index.html",
-    "static/css/main.87c4e60b.chunk.css.map": "/stillup/static/css/main.87c4e60b.chunk.css.map",
+    "static/css/main.679dcffa.chunk.css.map": "/stillup/static/css/main.679dcffa.chunk.css.map",
     "static/js/2.296a8766.chunk.js.LICENSE.txt": "/stillup/static/js/2.296a8766.chunk.js.LICENSE.txt",
     "static/media/App.css": "/stillup/static/media/theboldfont.8bb277ce.ttf",
-    "static/media/dots2.a5aca721.png": "/stillup/static/media/dots2.a5aca721.png",
+    "static/media/dots2.02f36191.png": "/stillup/static/media/dots2.02f36191.png",
     "static/media/dots3.64f8c96f.png": "/stillup/static/media/dots3.64f8c96f.png",
     "static/media/dotsMobile.270f7e88.png": "/stillup/static/media/dotsMobile.270f7e88.png",
     "static/media/logo.f2e63ad5.png": "/stillup/static/media/logo.f2e63ad5.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.092bc997.js",
     "static/js/2.296a8766.chunk.js",
-    "static/css/main.87c4e60b.chunk.css",
-    "static/js/main.2bf682d2.chunk.js"
+    "static/css/main.679dcffa.chunk.css",
+    "static/js/main.7bd661ce.chunk.js"
   ]
 }
