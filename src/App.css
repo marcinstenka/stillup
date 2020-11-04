@@ -575,10 +575,11 @@ path{
     margin: 20px 0 70px 0;
   }
   .suprise__img{
+    display: block;
     position: absolute;
     right: 0;
     top: -51px;
-    width: 270px;
+    width: 164px;
   }
   .suprise__img img{
     width: 100%;
@@ -698,6 +699,7 @@ path{
     margin: 50px auto 0 auto;
   }
   .footer__img{
+    display: block;
     position: absolute;
     width: 200px;
     top: -20px;
@@ -738,6 +740,9 @@ path{
   .footer__img{
     width: 300px;
     top: -52px;
+  }
+  .suprise__img {
+    width: 270px;
   }
 }
 @media screen and (min-width: 1340px){
