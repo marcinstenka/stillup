@@ -44,7 +44,7 @@ export default function TopBar() {
                 </p>
             </div>
         </div>
-        <h2 className="mobile-header">Wszystko zaczyna się bowiem od Ciebie.</h2>
+        <h2 className="mobile-header">Wszystko bowiem zaczyna się od Ciebie.</h2>
         <div className="cicle"></div>
     </div>
     <div className='topBar__down'>

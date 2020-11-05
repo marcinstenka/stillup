@@ -1,25 +1,15 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Still Up",
+  "name": "Still Up to wyjątkowa i jednocześnie nietypowa przestrzeń dla młodych ludzi, którzy chcą w swoim życiu osiągnąć sukces. Jeśli masz ukończone 15 lat,  możesz wstąpić w szeregi Akademii i zostać słuchaczem, prowadzonym przez mentorów z wielu branż zawodowych, którzy przekażą Tobie swoją wiedzę i doświadczenie. To jedyna taka szkoła w Lęborku, której program został napisany przez grupę przedsiębiorców, aby nauczyć Ciebie wszystkich potrzebnych kompetencji w zakresie przywództwa, a także pomóc Tobie odkryć i rozwinąć Twój potencjał. Przywództwo to wpływ, a nie pozycja zawodowa czy stanowisko.",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#598ccd",
+  "background_color": "#c4cacc"
 }

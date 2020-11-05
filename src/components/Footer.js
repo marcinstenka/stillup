@@ -1,4 +1,3 @@
-import react from 'react'
 import DotsFooter from './../img/dots3.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebookSquare  } from '@fortawesome/free-brands-svg-icons'
@@ -20,7 +19,7 @@ export default function Footer() {
             </div>
             <div className="contact">
                 <div className="contact__map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2314.0101239323008!2d17.791033216011215!3d54.55094699150002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fdc2bf1b2b5b27%3A0x2f90741ed2c06d06!2sD%C5%82uga%2024%2C%2084-353!5e0!3m2!1spl!2spl!4v1604338035726!5m2!1spl!2spl" frameBorder={"0"}></iframe>
+                    <iframe title='mapa' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2314.0101239323008!2d17.791033216011215!3d54.55094699150002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fdc2bf1b2b5b27%3A0x2f90741ed2c06d06!2sD%C5%82uga%2024%2C%2084-353!5e0!3m2!1spl!2spl!4v1604338035726!5m2!1spl!2spl" frameBorder={"0"}></iframe>
                 </div>
                 <div className="contact__info">
                     <h4>KONTAKT</h4>
