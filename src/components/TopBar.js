@@ -49,7 +49,7 @@ export default function TopBar() {
     </div>
     <div className='topBar__down'>
         <div className="down__img"><img src={DotsTopBar} alt="Ozdobne kształty"/></div>
-        <p>Nasza Adademia została podzielona na kilka bloków tematycznych.<br />W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje,<br />aby stać się niezawodnym przywódcą.</p>
+        <p>Nasza Akademia została podzielona na kilka bloków tematycznych.<br />W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje,<br />aby stać się niezawodnym przywódcą.</p>
     </div>
     </>
     )

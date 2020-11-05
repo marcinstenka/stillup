@@ -13,7 +13,7 @@ export default function Footer() {
                     <p>Zajęcia rozpoczynają się 4 listopada 2020r. uroczystą inauguracją i odbywają się w każdą środę w godzinach 17:00-20:00.</p>
                     <p>Szczegółowy plan słuchacze otrzymają w dniu inauguracji.</p>
                     <p>W ramach Akademii Lidera Still Up słuchacze mają 75 godzin (100 godzin dydaktycznych) zajęć  (liczba godzin może ulec zmianie przy późniejszym uruchomieniu zajęć).</p>
-                    <p>Grupy maksymalnie 10 osób <br />Warunkiem uruchomienia zajęć jest liczba 8 osób.</p>
+                    <p>Grupy maksymalnie 10 osób.<br />Warunkiem uruchomienia zajęć jest liczba 8 osób.</p>
                     <p><bold>Koszt:</bold> 350zł miesięcznie</p>
                 </div>
             </div>
