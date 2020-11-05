@@ -18,11 +18,9 @@ export default function Mentors() {
         for (let i=0; i< readMore.length; i++){
             readMore[i].addEventListener('click', ()=>{
                 let fullText = readMore[i].nextSibling
-                let shortText = readMore[i].previousSibling
                 let readLess = readMore[i].nextSibling.nextSibling
                 fullText.style.maxHeight = fullText.scrollHeight + 'px';
                 readLess.style.display = 'block';
-                // shortText.style.display ='none'
                 readMore[i].style.display='none'
             })
         }
@@ -32,8 +30,6 @@ export default function Mentors() {
             readLess[i].addEventListener('click', ()=>{
                 let fullText = readLess[i].previousSibling
                 let readMore = readLess[i].previousSibling.previousSibling
-                let shorText = readLess[i].previousSibling.previousSibling.previousSibling
-                shorText.style.display = 'block';
                 readMore.style.display = 'block'
                 fullText.style.maxHeight = null;
                 readLess[i].style.display = 'none'

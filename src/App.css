@@ -6,22 +6,7 @@
   --orange: #de9142;
   --white: #fff;
 }
-@font-face{
-  font-family: 'Intervogue soft ultra';
-  src: url("./fonts/Intervogue Soft Ultra.otf") format('opentype');
-}
-@font-face{
-  font-family: 'Intervogue soft bold';
-  src: url("./fonts/Intervogue Soft Bold.otf") format('opentype');
-}
-@font-face{
-  font-family: 'Intervogue soft regular';
-  src: url("./fonts/Intervogue Soft Regular.otf") format('opentype');
-}
-@font-face{
-  font-family: 'the bold font';
-  src: url("./fonts/theboldfont.ttf") format('truetype');
-}
+
 #root{
   overflow: hidden;
 }
