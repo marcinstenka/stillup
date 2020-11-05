@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/stillup/static/css/main.ba7ad13b.chunk.css",
-    "main.js": "/stillup/static/js/main.33e8795d.chunk.js",
-    "main.js.map": "/stillup/static/js/main.33e8795d.chunk.js.map",
+    "main.css": "/stillup/static/css/main.90ecb8c3.chunk.css",
+    "main.js": "/stillup/static/js/main.05f6961a.chunk.js",
+    "main.js.map": "/stillup/static/js/main.05f6961a.chunk.js.map",
     "runtime-main.js": "/stillup/static/js/runtime-main.092bc997.js",
     "runtime-main.js.map": "/stillup/static/js/runtime-main.092bc997.js.map",
     "static/css/2.ec02d681.chunk.css": "/stillup/static/css/2.ec02d681.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.4222dd5e.chunk.js.map": "/stillup/static/js/2.4222dd5e.chunk.js.map",
     "index.html": "/stillup/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/stillup/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.ba7ad13b.chunk.css.map": "/stillup/static/css/main.ba7ad13b.chunk.css.map",
+    "static/css/main.90ecb8c3.chunk.css.map": "/stillup/static/css/main.90ecb8c3.chunk.css.map",
     "static/js/2.4222dd5e.chunk.js.LICENSE.txt": "/stillup/static/js/2.4222dd5e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/stillup/static/media/theboldfont.8bb277ce.ttf",
     "static/media/dots2.02f36191.png": "/stillup/static/media/dots2.02f36191.png",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.092bc997.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.4222dd5e.chunk.js",
-    "static/css/main.ba7ad13b.chunk.css",
-    "static/js/main.33e8795d.chunk.js"
+    "static/css/main.90ecb8c3.chunk.css",
+    "static/js/main.05f6961a.chunk.js"
   ]
 }
