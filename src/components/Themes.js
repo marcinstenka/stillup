@@ -9,7 +9,7 @@ export default function Themes() {
         <div className='themes'>
             <p className='themes__heading-mobile'>Nasza Akademia została podzielona na kilka bloków tematycznych. W ramach każdego z nich nauczysz się lub wzmocnisz w sobie kompetencje, aby stać się niezawodnym przywódcą.</p>
             <div className="theme">
-                <div className="theme__logo">
+                <div data-aos="fade-right" className="theme__logo">
                     <img src={Theme1} alt="Ozdobny obrazek"/>
                 </div>
                 <h2 className='theme__name-mobile'><black>I.</black>Inicjatywa<br/>Inwencja<br/>Efektywność</h2>
@@ -21,7 +21,7 @@ export default function Themes() {
             </div>
 
             <div className="theme">
-                <div className="theme__logo">
+                <div data-aos="fade-left" className="theme__logo">
                     <img src={Theme2} alt="Ozdobny obrazek"/>
                 </div>
                 <h2 className='theme__name-mobile'><black>II.</black>System<br/>Kryterium<br/>Kanon</h2>
@@ -33,7 +33,7 @@ export default function Themes() {
             </div>
 
             <div className="theme">
-                <div className="theme__logo">
+                <div data-aos="fade-right" className="theme__logo">
                     <img src={Theme3} alt="Ozdobny obrazek"/>
                 </div>
                 <h2 className='theme__name-mobile'><black>III.</black>Popularność<br/>Niezawodność<br/>Zwycięstwo</h2>
@@ -45,7 +45,7 @@ export default function Themes() {
             </div>
 
             <div className="theme">
-                <div className="theme__logo">
+                <div data-aos="fade-left" className="theme__logo">
                     <img src={Theme4} alt="Ozdobny obrazek"/>
                 </div>
                 <h2 className='theme__name-mobile'><black>IV.</black>Moc<br/>Potencjał<br/>Wiara</h2>
@@ -60,7 +60,7 @@ export default function Themes() {
             <div className="suprise">
                 <p className='suprise__bold'>W ramach Akademii zorganizowane będą także spotkania niespodzianki.</p>
                 <p>Jak sam/a widzisz, Akademia Lidera Still Up to gwarancja odkrywania, kształtowania i wzmacniania w sobie cech przywódczych. To szyta na miarę Twoich potrzeb przestrzeń wzrastania, zwiększania świadomości i budzenia potencjału. To właśnie w tym wyjątkowym miejscu, w atmosferze zaufania, życzliwości i akceptacji będziesz szedł/szła wciąż w górę.</p>
-                <div className='suprise__img'><img src={DotsSuprise} alt="Ozdobne kształty"/></div>
+                <div data-aos="fade-left" className='suprise__img'><img src={DotsSuprise} alt="Ozdobne kształty"/></div>
             </div>
         </div>
     )

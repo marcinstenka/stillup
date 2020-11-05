@@ -5,7 +5,7 @@ export default function Footer() {
     return(
         <>
             <div className="footer">
-                <div className="footer__img">
+                <div data-aos="fade-right" className="footer__img">
                     <img src={DotsFooter} alt="Ozdobne kształty"/>
                 </div>
                 <div className="stripe-orange"></div>
