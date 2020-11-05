@@ -52,6 +52,15 @@ body{
     top: 12px !important;
   }
 }
+@media screen and (max-width: 380px){
+  .mentor:nth-of-type(2) h2{
+    font-size: 20px;
+  }
+  .mentor:nth-of-type(2) h2::after{
+    top:15px;
+  }
+
+}
 .topBar{
   display: flex;
   flex-direction: column;
@@ -293,19 +302,19 @@ black{
 .description__read-more{
   font-family: 'Intervogue soft bold';
   cursor: pointer;
+  transition: 0.3s;
+
 }
 .description__full{
   max-height: 0;
   overflow: hidden;
+  transition: 0.3s;
 }
 .description__read-less{
   display: none;
   font-family: 'Intervogue soft bold';
   cursor: pointer;
   margin: 0 5px 20px 5px !important;
-}
-.mentor:nth-of-type(2) h2{
-  font-size: 21px;
 }
 .mentor:nth-of-type(even){
   grid-template-columns: 60% 40%;
@@ -719,6 +728,11 @@ path{
   .contact__info{
     text-align: initial;
     margin: 0 0 0 20px;
+  }
+
+    .mentor__name[data-aos=fade-left], .mentor__name[data-aos=fade-right] {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
   }
 }
 

@@ -22,7 +22,7 @@ export default function TopBar() {
                     <div className="topBar__description">
                         <p>... to wyjątkowa i jednocześnie nietypowa przestrzeń dla młodych ludzi, którzy chcą w swoim życiu osiągnąć sukces. Jeśli masz ukończone 15 lat,  możesz wstąpić w szeregi Akademii i zostać słuchaczem, prowadzonym przez mentorów z wielu branż zawodowych, którzy przekażą Tobie swoją wiedzę i doświadczenie. To jedyna taka szkoła w Lęborku, której program został napisany przez grupę przedsiębiorców, aby nauczyć Ciebie wszystkich potrzebnych kompetencji w zakresie przywództwa, a także pomóc Tobie odkryć i rozwinąć Twój potencjał. Przywództwo to wpływ, a nie pozycja zawodowa czy stanowisko.</p>
                         <p>Przywództwo to ludzie. Bycia dobrym i skutecznym liderem można się nauczyć. Jednak wszystko zaczyna się od Ciebie. Najpierw to Ty musisz stać się przywódcą dla siebie samego/samej, nauczyć się zarządzać sobą. Wyposażyć się w zestaw narzędzi, aby w przyszłości inni szli za Twoimi słowami. Szli nie dlatego, że muszą, ale dlatego, że chcą.</p>
-                        <h2>Wszystko zaczyna się od bowiem Ciebie.</h2>
+                        <h2>Wszystko bowiem zaczyna się od Ciebie.</h2>
                     </div>
                 </div>
                 <div className="topBar__logo-mobile">
