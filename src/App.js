@@ -14,7 +14,7 @@ function App() {
     once: true
   });
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='stillup'>
         <Switch>
           <Route exact path='/' component={StillUp} />
         </Switch>
