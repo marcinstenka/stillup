@@ -80,7 +80,7 @@ export default function Mentors() {
                     <div className="mentor__description">
                         <p className='description__short'>Absolwentka Liceum Medycznego w Wejherowie na kierunku pielęgniarstwo. Studiowała kosmetologię w Wyższej Szkole Zdrowia, Urody i Edukacji w Poznaniu - Wydział zamiejscowy w Gdyni.</p>
                         <p className='description__read-more'>(czytaj dalej)</p>
-                        <p className='description__full'><br />Od ponad 19 lat prowadzi Studio Odnowy Biologicznej Virgo . Jest to jedno z bardziej prestiżowych gabinetów w mieście . Przez te lata ukończyła wiele szkoleń z tej dziedziny. Dzisiaj w gabinecie wykonywane są zabiegi podstawowej pielęgnacji kosmetycznej po lasery jak i pełną medycynę estetyczną pod okiem dermatologa z którym współpracuję. Od 4 lat wykładowca na WSB w Gdańsku - kierunek kosmetologia. Niespełna 5 lat temu podjęła decyzję budowy drugiej nogi biznesowej w marketingu sieciowym, wybierając Amerykańską Firmę Forever. Przez ten krótki czas rozbudowała międzynarodowy biznes w tej branży . Dzisiaj jako Senior Manager jest liderem wyjątkowej grupy osób w Polsce i na świecie . Od 4 lat czynnie zaangażowana w Fundacji Lęborskie Hospicjum Stacjonarne . Piastując stanowisko zastępcy przewodniczącej rady fundacji. Organizatorka wielu szkoleń biznesowych. </p>
+                        <p className='description__full'><br />Od ponad 19 lat prowadzi Studio Odnowy Biologicznej Virgo. Jest to jedno z bardziej prestiżowych gabinetów w mieście. Przez te lata ukończyła wiele szkoleń z tej dziedziny. Dzisiaj w gabinecie wykonywane są zabiegi podstawowej pielęgnacji kosmetycznej po lasery jak i pełną medycynę estetyczną pod okiem dermatologa z którym współpracuję. Od 4 lat wykładowca na WSB w Gdańsku - kierunek kosmetologia. Niespełna 5 lat temu podjęła decyzję budowy drugiej nogi biznesowej w marketingu sieciowym, wybierając Amerykańską Firmę Forever. Przez ten krótki czas rozbudowała międzynarodowy biznes w tej branży. Dzisiaj jako Senior Manager jest liderem wyjątkowej grupy osób w Polsce i na świecie. Od 4 lat czynnie zaangażowana w Fundacji Lęborskie Hospicjum Stacjonarne. Piastując stanowisko zastępcy przewodniczącej rady fundacji. Organizatorka wielu szkoleń biznesowych. </p>
                         <p className='description__read-less'>(czytaj mniej)</p>
                     </div>
                 </div>
@@ -117,10 +117,10 @@ export default function Mentors() {
 
                 <div className="mentor">
                     <div className="mentor__img">
-                        <img src={Mentor6} alt="Filip Koniecki"/>
+                        <img src={Mentor6} alt="Filip Konecki"/>
                     </div>
                     <div data-aos='fade-right' className="mentor__name">
-                        <h2>FILIP<br />KONIECKI</h2>
+                        <h2>FILIP<br />KONECKI</h2>
                     </div>
                     <div className="mentor__description">
                         <p className='description__short'>Absolwent Wydziału Dziennikarstwa i Nauk Politycznych Uniwersytetu Warszawskiego (specjalizacja telewizyjna). W 2012 roku obronił pracę magisterską, której promotorem był prof. Jerzy Bralczyk. Analizie poddana została siatka pojęciowa słowa "luksus" i związana z nim retoryka tekstów reklamowych.</p>
@@ -218,11 +218,11 @@ export default function Mentors() {
                         <div className="mentor">
                             <div className="menotrs-stripe"></div>
                             <div className="mentor__img">
-                                <img src={Mentor6} alt="Filip Koniecki"/>
+                                <img src={Mentor6} alt="Filip Konecki"/>
                             </div>
                             <div className="mentor__description">
                                 <div className="mentor__name">
-                                    <h2>FILIP<br />KONIECKI</h2>
+                                    <h2>FILIP<br />KONECKI</h2>
                                 </div>
                                 <p className='description__full'>Absolwent Wydziału Dziennikarstwa i Nauk Politycznych Uniwersytetu Warszawskiego (specjalizacja telewizyjna). W 2012 roku obronił pracę magisterską, której promotorem był prof. Jerzy Bralczyk. Analizie poddana została siatka pojęciowa słowa "luksus" i związana z nim retoryka tekstów reklamowych.<br /><br />Fascynacji słowem towarzyszyła pasja do tworzenia filmów krótkometrażowych, która zaowocowała dyplomem Akademii Filmu i Telewizji w Warszawie w 2017 roku na kierunku montaż filmowy. Zrealizował etiudy w konwencji refleksyjno-satyrycznej  ("Niedowład", "Tramwaj, któremu było smutno", "Poezja", "Psychoanalityk", "Wiosna", "Homo XXI", "Deadline"), pokazujące paradoksy i absurdy ludzkiej egzystencji. "Psychonalityk" dostał się do 10 najlepszych filmów polskiej sekcji Sundance Channel Festiwal w 2015 roku. W latach 2013-2015 współtworzył magazyn wędkarski "Wędrówki z wędką", zwracający uwagę na piękno polskiej przyrody.<br /><br />Największym wyzwaniem zawodowym i przygodą życia była współpraca operatorsko-montażowa przy filmie dokumentalnym "Nieletni inżynierowie"(2019) w reżyserii Aleksandry Skowron i Hanny Polak, opowiadającym o tym, co może się stać, gdy grupa "zwykłych" nastolatków trafi na charyzmatycznego nauczyciela. Magiczna historia rozbudzania potencjału, drzemiącego w każdym młodym człowieku, została zakwalifikowana na kilka znaczących międzynarodowych festiwali filmowych (m.in. Docs Against Gravity, Satisfied Eye, Zlin Film Festiwal).</p>
                             </div>
