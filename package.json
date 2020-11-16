@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "homepage": "https://marcinstenka.github.io/stillup",
+  "name": "stillup",
+  "homepage": "",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
