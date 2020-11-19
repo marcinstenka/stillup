@@ -10,7 +10,7 @@ export default function Footer() {
                 </div>
                 <div className="stripe-orange"></div>
                 <div className="footer__info">
-                    <p>Zajęcia rozpoczynają się 9 września 2021r. uroczystą inauguracją i odbywają się w każdą środę w godzinach 17:00-20:00.</p>
+                    <p>Zajęcia rozpoczynają się 15 września 2021r. uroczystą inauguracją i odbywają się w każdą środę w godzinach 17:00-20:00.</p>
                     <p>Szczegółowy plan słuchacze otrzymają w dniu inauguracji.</p>
                     <p>W ramach Akademii Lidera Still Up słuchacze mają 75 godzin (100 godzin dydaktycznych) zajęć plus 3 spotkania niespodzianki.</p>
                     <p>Grupy maksymalnie 10 osób.<br />Warunkiem uruchomienia zajęć jest liczba 8 osób.</p>
